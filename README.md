@@ -5,7 +5,7 @@ Display a percentage label on the battery icon.
 iPhone & iPad running iOS13 or later
 
 ## Compiling
-  - [Theos](https://theos.dev/) is required to compile the Theos.
+  - [Theos](https://theos.dev/) is required to compile the project.
 
 ## License
 [MIT](https://github.com/sugiuta/plbattery/blob/master/LICENSE.md)
