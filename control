@@ -1,0 +1,11 @@
+Package: com.sugiuta.plbattery
+Name: PLBattery
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.plbattery
+Description: Display a percentage label on the battery icon.
+Maintainer: sugiuta
+Author: sugiuta
+Section: Tweaks
+Depends: mobilesubstrate
+Icon: https://sugiuta.github.io/descriptions/com.sugiuta.plbattery/PLBattery.png
